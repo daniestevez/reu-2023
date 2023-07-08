@@ -10,6 +10,19 @@ GNU Radio and SETI Institute.
 
 The material is organized in the following folders:
 
+* Session 1. `introduction-slides`. some introductory slides for the tutorials.
+
+* Session 1. `audio`. A simple example showing how to generate and display audio
+  (soundcard) signals with GNU Radio.
+
+* Session 1. `rtl-sdr`. A simple example showing how to receive signals with the
+  RTL-SDR in GNU Radio.
+
+* Session 2. `spectral-analysis`. Shows how to simulate narrowband and wideband
+  signals and how to do custom spectral analysis with FFTs. Includes real world
+  example applications with a spectral line (W3OH maser) and a spacecraft
+  (Voyager-1) recording.
+
 ## Previous years
 
 This is the list of materials used in previous years:

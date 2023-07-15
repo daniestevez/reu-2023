@@ -23,6 +23,11 @@ The material is organized in the following folders:
   example applications with a spectral line (W3OH maser) and a spacecraft
   (Voyager-1) recording.
 
+* Session 3. `scripting`. Shows how to control a flowgraph using Parameter
+  blocks by running it from the command line or from Python. As a demo, there is
+  an "observation" with an RTL-SDR scanning different frequencies and producing
+  IQ and waterfall data.
+
 ## Previous years
 
 This is the list of materials used in previous years:

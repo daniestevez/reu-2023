@@ -28,6 +28,11 @@ The material is organized in the following folders:
   an "observation" with an RTL-SDR scanning different frequencies and producing
   IQ and waterfall data.
 
+* Session 4. `doppler`. Shows how to do a simulation of a signal having constant
+  Doppler drift using a sawtooth Signal Source, how to do Doppler simulations
+  with the Doppler Correction block and data from Astropy or HORIZONS, and how
+  to measure frequency very accurately by using a PLL to measure phase.
+
 ## Previous years
 
 This is the list of materials used in previous years:

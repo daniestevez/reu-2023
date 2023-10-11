@@ -33,7 +33,12 @@ The material is organized in the following folders:
   with the Doppler Correction block and data from Astropy or HORIZONS, and how
   to measure frequency very accurately by using a PLL to measure phase.
 
-* Session 5. `Hydrogen_line`. Hands-on activity during the visit to the Allen
+* Session 5. `beamforming`. Shows how beamforming works by aligning the phase
+  and delay of the signals from multiple antennas. A demo of a linear array is
+  done to show how beam steering works, and its relationship with
+  interferometric imaging.
+
+* Session 6. `Hydrogen_line`. Hands-on activity during the visit to the Allen
   Telescope Array. Measurement of the Doppler spectra of the galactic HI line.
 
 ## Previous years
